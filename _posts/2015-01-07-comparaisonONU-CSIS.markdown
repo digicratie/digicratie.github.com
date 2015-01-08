@@ -53,7 +53,7 @@ Ce projet de loi a pour but de former un comité de parlementaires chargés d'ex
 Il donne au comité le pouvoir d'assigner devant lui des témoins et de les enjoindre de clarifier tout point jugé pertinent au bon fonctionnement de ces activités.
 Bref, il vise à jouer le rôle d'un chien de garde.
 Ce projet de loi va directement dans le sens du projet de résolution de l'ONU, accepté par le Canada.
-Pourtant, en novembre dernier le gouvernement a voté en bloc contre ce projet de loi.
+Pourtant, en novembre dernier le gouvernement a [voté en bloc][vote-C622] contre ce projet de loi.
 Contrairement à tous ses partenaires du Groupe de Cinq, le Canada a décidé de rejeter une validation indépendante sur des activités ayant le potentiel de remettre en cause un des piliers de la démocratie: le droit à la vie privée.
 
 En comparant les engagements qu'il fait publiquement à ce qui se passe réellement, on constate que le Canada joue les hypocrites.
@@ -71,3 +71,5 @@ On s'attend à plus de transparence et de responsabilité de la part d'un gouver
 [lien-CSIS3]: http://www.huffingtonpost.ca/2014/01/07/csec-spying-canada_n_4555873.html
 
 [projet-loi-622]: http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=F&Mode=1&DocId=6680729&File=4&Col=1
+
+[vote-C622]: http://www.parl.gc.ca/HouseChamberBusiness/ChamberVoteDetail.aspx?Language=F&Mode=1&Parl=41&Ses=2&Vote=270&GroupBy=party&FltrParl=41&FltrSes=2
