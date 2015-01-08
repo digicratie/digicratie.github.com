@@ -16,7 +16,7 @@ Mais on s'attend, dans une société libre, à ce que cet équilibre soit claire
 
 ### Ce que dit l'ONU
 
-Le 19 novembre dernier, l'ONU a adopté en assemblée générale un [projet de résolution][projet-resolution-ONU] portant sur "Le droit à la vie privée à l'ère du numérique".
+Le 19 novembre dernier, l'ONU a adopté en assemblée générale un [projet de résolution][projet-resolution-ONU] portant sur *"Le droit à la vie privée à l'ère du numérique"*.
 On y stipule que
 
 > les  droits  dont  les  personnes  jouissent  hors  ligne  doivent également être protégés en ligne, y compris le droit à la vie privée
@@ -48,7 +48,7 @@ Le cas du SCRS omettant un "détail" aussi important que l'implication avec d'au
 
 ### Une chance manquée de rétablir l'équilibre
 
-Nous avons donc besoin d'organismes redevables et en lesquels on peut avoir confiance. C'est précisément ce que tente d'apporter le [projet de loi C-622][projet-loi-622] sur la "responsabilité et la transparence du CSTC".
+Nous avons donc besoin d'organismes redevables et en lesquels on peut avoir confiance. C'est précisément ce que tente d'apporter le [projet de loi C-622][projet-loi-622] sur la *"responsabilité et la transparence du CSTC"*.
 Ce projet de loi a pour but de former un comité de parlementaires chargés d'examiner le cadre législatif et les activités de surveillance au Canada.
 Il donne au comité le pouvoir d'assigner devant lui des témoins et de les enjoindre de clarifier tout point jugé pertinent au bon fonctionnement de ces activités.
 Bref, il vise à jouer le rôle d'un chien de garde.
